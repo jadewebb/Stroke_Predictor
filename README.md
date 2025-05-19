@@ -1,4 +1,4 @@
-# Stroke_Predictor
+# Stroke Predictor
 
 Two machine learning models, Decision Tree and Random Forest, trained to predict whether a patient is susceptible to stroke based on 12 attributes
 
